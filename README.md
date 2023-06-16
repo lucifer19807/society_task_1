@@ -1,5 +1,5 @@
 # society_task_1
-Sure! Here's a sample README file for your GitHub repository that summarizes the code and provides instructions for running it:
+
 
 ```
 # Hazardous Object Classification
