@@ -36,7 +36,7 @@ The dataset used for training the model is obtained from Kaggle and can be found
 2. Run the Jupyter notebook or Python script containing the code:
 
    ```bash
-   jupyter notebook classification.ipynb
+   jupyter notebook devcomm_task_1.ipynb
    ```
 
 3. Follow the instructions in the notebook to preprocess the data, perform exploratory data analysis, and train the SVM model.
