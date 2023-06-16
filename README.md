@@ -27,11 +27,7 @@ The dataset used for training the model is obtained from Kaggle and can be found
    git clone https://github.com/lucifer19807/society_task_1
    ```
 
-2. Install the required dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
@@ -56,4 +52,4 @@ The trained SVM model provides predictions on the hazard status of objects orbit
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 ```
 
-Feel free to modify the README file according to your project's specific details and requirements.
+
