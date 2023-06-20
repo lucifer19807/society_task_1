@@ -8,7 +8,7 @@ This repository contains code for classifying objects orbiting the Earth as haza
 
 ## Dataset
 
-The dataset used for training the model is obtained from Kaggle and can be found [here](https://www.kaggle.com/some-link).
+The dataset used for training the model is obtained from Kaggle and can be found [here]([https://www.kaggle.com/some-link](https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects)).
 
 ## Requirements
 
